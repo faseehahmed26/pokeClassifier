@@ -1,5 +1,5 @@
 # pokeClassifier
-## In this article, I will show you how to create a Deep Learning web app using MERN Stack without storing the AI model in the cloud.
+## This project, will show you how to create a Deep Learning web app using MERN Stack without storing the AI model in the cloud.
 
 ## Tech Stack
 

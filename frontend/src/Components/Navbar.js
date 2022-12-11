@@ -14,7 +14,7 @@ const NavigationBar = () => {
     <React.Fragment>
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark navbar-style">
         <a className="navbar-brand" href="/#">
-          Pokemon Detector
+          Pokemon Classifier
         </a>
 
         <button
